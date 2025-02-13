@@ -367,4 +367,4 @@ public class ClaimRectangleAndSquares
  		return gameIsOver;
      }
      
-}	// ---------- End of FillRectangle Class  -------------------
+}	// ---------- End of FillRectangle  -------------------
