@@ -360,7 +360,7 @@ public class ClaimRectangleAndSquares
     	return yS2;
     }
     /**
-     * Returns gameIsOver as true or false to continue or not the game.
+     * Returns gameIsOver as true or false to continue or not the game......
      * @return the gameIsOver
      */
     public boolean getGameIsOver() {
